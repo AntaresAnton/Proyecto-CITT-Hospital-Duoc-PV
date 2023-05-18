@@ -1,0 +1,19 @@
+.paciente{
+    border: 1px solid #000;
+}
+
+button.btn{
+    border-radius: 0px;
+}
+
+.editar-pac{
+    background-color: #7167df;
+}
+
+.guardar-pac{
+    background-color: greenyellow;
+}
+
+.informacion-pac{
+    background-color: blue;
+}
