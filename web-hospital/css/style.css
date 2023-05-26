@@ -17,3 +17,7 @@ button.btn{
 .informacion-pac{
     background-color: blue;
 }
+.bordeado-azul{
+    border: 1px solid blue;
+    border-radius: 2rem;
+}
