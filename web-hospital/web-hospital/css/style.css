@@ -1,0 +1,46 @@
+body{
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+.paciente{
+    border: 1px solid #000;
+}
+
+button.btn{
+    border-radius: 0px;
+}
+
+.editar-pac{
+    background-color: #7167df;
+}
+
+.guardar-pac{
+    background-color: greenyellow;
+}
+
+.informacion-pac{
+    background-color: blue;
+}
+.bordeado-azul{
+    border: 1px solid blue;
+    border-radius: 2rem;
+}
+
+.wrapper {
+    display: block;
+    margin: 5em auto;
+    border: 1px solid #555;
+    width: 700px;
+    height: 350px;
+    position: relative;
+  }
+  p{text-align:center;}
+  .label {
+    height: 1em;
+    padding: .3em;
+    background: rgba(255, 255, 255, .8);
+    position: absolute;
+    display: none;
+    color:#333;
+    
+  }
